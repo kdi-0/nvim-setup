@@ -24,3 +24,7 @@ colorscheme gruvbox
 hi Normal guibg=NONE ctermbg=NONE
 
 let mapleader = " "
+
+augroup JsonToJsonc
+    autocmd! FileType json set filetype=jsonc
+augroup END
