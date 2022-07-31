@@ -24,6 +24,7 @@ colorscheme tokyonight
 
 hi Normal guibg=NONE ctermbg=NONE
 
+let g:airline_theme='nord_minimal'
 let mapleader = " "
 
 augroup JsonToJsonc
