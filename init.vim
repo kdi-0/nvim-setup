@@ -13,13 +13,14 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'luochen1990/rainbow'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
+Plug 'folke/tokyonight.nvim'
 call plug#end()
 
 inoremap <C-c> <Esc>
 
 let g:rainbow_active=1
 
-colorscheme gruvbox
+colorscheme tokyonight
 
 hi Normal guibg=NONE ctermbg=NONE
 
