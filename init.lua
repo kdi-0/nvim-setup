@@ -1,0 +1,6 @@
+require("colors")
+require("keymaps")
+require("sets")
+require("packages")
+require("sitter")
+require("lsp")
