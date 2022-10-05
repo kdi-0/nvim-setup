@@ -3,8 +3,8 @@ set noerrorbells
 set nu
 set rnu
 set signcolumn=yes
-set tabstop=2 softtabstop=2
-set shiftwidth=2
+set tabstop=4 softtabstop=4
+set shiftwidth=4
 set nohlsearch
 set incsearch
 set noswapfile
